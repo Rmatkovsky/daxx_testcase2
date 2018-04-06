@@ -8,12 +8,12 @@
 
 <script>
 import BarChart from './components/chart'
-import remoteData from './api/TorqueValues';
-import { filterByDirection, sortByPosition } from './utils/helpers';
+import remoteData from './api/TorqueValues'
+import { filterByDirection, sortByPosition } from './utils/helpers'
 
-const sortedData = sortByPosition(remoteData);
-const openTorques = filterByDirection(sortedData, 'Open');
-const closeTorques = filterByDirection(sortedData, 'Close');
+const sortedData = sortByPosition(remoteData)
+const openTorques = filterByDirection(sortedData, 'Open')
+const closeTorques = filterByDirection(sortedData, 'Close')
 
 export default {
   name: 'App',
@@ -22,7 +22,7 @@ export default {
   },
   data: () => ({
     openValues: sortByPosition(openTorques),
-    closeValues: sortByPosition(closeTorques),
+    closeValues: sortByPosition(closeTorques)
   })
 }
 </script>

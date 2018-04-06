@@ -8,10 +8,10 @@
 </template>
 
 <script>
-import { getByProperty } from '../utils/helpers';
-import IEcharts from 'vue-echarts-v3/src/lite.js';
-import 'echarts/lib/chart/bar';
-import 'echarts/lib/component/title';
+import { getByProperty } from '../utils/helpers'
+import IEcharts from 'vue-echarts-v3/src/lite.js'
+import 'echarts/lib/chart/bar'
+import 'echarts/lib/component/title'
 
 export default {
   name: 'BarChart',
@@ -19,12 +19,12 @@ export default {
   components: {
     IEcharts
   },
-  data: function() {
+  data: function () {
     return {
       loading: false,
       bar: {
         title: {
-          text: this.title,
+          text: this.title
         },
         xAxis: {
           name: 'Valve position',
@@ -71,7 +71,7 @@ export default {
           {
             type: 'bar',
             data: getByProperty(this.series, 'LastTorque')
-          },
+          }
         ]
       }
     }

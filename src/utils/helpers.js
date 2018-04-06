@@ -6,4 +6,3 @@ export const filterByDirection = (data, filter) =>
 export const sortByPosition = data => data.sort((a, b) => a.Position > b.Position)
 
 export const getByProperty = (data, property) => data.map(item => item[property])
-

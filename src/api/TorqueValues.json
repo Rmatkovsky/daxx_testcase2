@@ -1,0 +1,4466 @@
+[
+  {
+    "Direction": "Close",
+    "Position": 53,
+    "AverageTorque": 1,
+    "LastTorque": 1,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f397d5"
+  },
+  {
+    "Direction": "Open",
+    "Position": 52,
+    "AverageTorque": 2,
+    "LastTorque": 4,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f397d6"
+  },
+  {
+    "Direction": "Close",
+    "Position": 54,
+    "AverageTorque": 1,
+    "LastTorque": 1,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f397d7"
+  },
+  {
+    "Direction": "Open",
+    "Position": 53,
+    "AverageTorque": 1,
+    "LastTorque": 3,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f397d8"
+  },
+  {
+    "Direction": "Close",
+    "Position": 55,
+    "AverageTorque": 1,
+    "LastTorque": 1,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f397d9"
+  },
+  {
+    "Direction": "Open",
+    "Position": 54,
+    "AverageTorque": 1,
+    "LastTorque": 3,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f397da"
+  },
+  {
+    "Direction": "Close",
+    "Position": 56,
+    "AverageTorque": 1,
+    "LastTorque": 1,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f397db"
+  },
+  {
+    "Direction": "Open",
+    "Position": 55,
+    "AverageTorque": 1,
+    "LastTorque": 3,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f397dc"
+  },
+  {
+    "Direction": "Close",
+    "Position": 57,
+    "AverageTorque": 1,
+    "LastTorque": 1,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f397dd"
+  },
+  {
+    "Direction": "Open",
+    "Position": 56,
+    "AverageTorque": 1,
+    "LastTorque": 3,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f397de"
+  },
+  {
+    "Direction": "Close",
+    "Position": 58,
+    "AverageTorque": 1,
+    "LastTorque": 1,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f397df"
+  },
+  {
+    "Direction": "Open",
+    "Position": 57,
+    "AverageTorque": 1,
+    "LastTorque": 3,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f397e0"
+  },
+  {
+    "Direction": "Close",
+    "Position": 59,
+    "AverageTorque": 1,
+    "LastTorque": 1,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f397e1"
+  },
+  {
+    "Direction": "Open",
+    "Position": 58,
+    "AverageTorque": 2,
+    "LastTorque": 4,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f397e2"
+  },
+  {
+    "Direction": "Close",
+    "Position": 60,
+    "AverageTorque": 1,
+    "LastTorque": 1,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f397e3"
+  },
+  {
+    "Direction": "Open",
+    "Position": 59,
+    "AverageTorque": 3,
+    "LastTorque": 5,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f397e4"
+  },
+  {
+    "Direction": "Close",
+    "Position": 61,
+    "AverageTorque": 1,
+    "LastTorque": 1,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f397e5"
+  },
+  {
+    "Direction": "Open",
+    "Position": 60,
+    "AverageTorque": 3,
+    "LastTorque": 5,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f397e6"
+  },
+  {
+    "Direction": "Close",
+    "Position": 62,
+    "AverageTorque": 1,
+    "LastTorque": 1,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f397e7"
+  },
+  {
+    "Direction": "Open",
+    "Position": 61,
+    "AverageTorque": 2,
+    "LastTorque": 4,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f397e8"
+  },
+  {
+    "Direction": "Close",
+    "Position": 63,
+    "AverageTorque": 1,
+    "LastTorque": 1,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f397e9"
+  },
+  {
+    "Direction": "Open",
+    "Position": 62,
+    "AverageTorque": 2,
+    "LastTorque": 4,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f397ea"
+  },
+  {
+    "Direction": "Close",
+    "Position": 64,
+    "AverageTorque": 1,
+    "LastTorque": 1,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f397eb"
+  },
+  {
+    "Direction": "Open",
+    "Position": 63,
+    "AverageTorque": 2,
+    "LastTorque": 4,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f397ec"
+  },
+  {
+    "Direction": "Close",
+    "Position": 65,
+    "AverageTorque": 1,
+    "LastTorque": 1,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f397ed"
+  },
+  {
+    "Direction": "Open",
+    "Position": 64,
+    "AverageTorque": 2,
+    "LastTorque": 4,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f397ee"
+  },
+  {
+    "Direction": "Close",
+    "Position": 66,
+    "AverageTorque": 1,
+    "LastTorque": 1,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f397ef"
+  },
+  {
+    "Direction": "Open",
+    "Position": 65,
+    "AverageTorque": 2,
+    "LastTorque": 5,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f397f0"
+  },
+  {
+    "Direction": "Close",
+    "Position": 67,
+    "AverageTorque": 1,
+    "LastTorque": 1,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f397f1"
+  },
+  {
+    "Direction": "Open",
+    "Position": 66,
+    "AverageTorque": 3,
+    "LastTorque": 6,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f397f2"
+  },
+  {
+    "Direction": "Close",
+    "Position": 68,
+    "AverageTorque": 1,
+    "LastTorque": 2,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f397f3"
+  },
+  {
+    "Direction": "Open",
+    "Position": 67,
+    "AverageTorque": 4,
+    "LastTorque": 7,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f397f4"
+  },
+  {
+    "Direction": "Close",
+    "Position": 69,
+    "AverageTorque": 1,
+    "LastTorque": 2,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f397f5"
+  },
+  {
+    "Direction": "Open",
+    "Position": 68,
+    "AverageTorque": 4,
+    "LastTorque": 8,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f397f6"
+  },
+  {
+    "Direction": "Close",
+    "Position": 70,
+    "AverageTorque": 1,
+    "LastTorque": 2,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f397f7"
+  },
+  {
+    "Direction": "Open",
+    "Position": 69,
+    "AverageTorque": 4,
+    "LastTorque": 8,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f397f8"
+  },
+  {
+    "Direction": "Close",
+    "Position": 71,
+    "AverageTorque": 1,
+    "LastTorque": 2,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f397f9"
+  },
+  {
+    "Direction": "Open",
+    "Position": 70,
+    "AverageTorque": 4,
+    "LastTorque": 8,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f397fa"
+  },
+  {
+    "Direction": "Close",
+    "Position": 72,
+    "AverageTorque": 1,
+    "LastTorque": 2,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f397fb"
+  },
+  {
+    "Direction": "Open",
+    "Position": 71,
+    "AverageTorque": 4,
+    "LastTorque": 8,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f397fc"
+  },
+  {
+    "Direction": "Close",
+    "Position": 73,
+    "AverageTorque": 1,
+    "LastTorque": 1,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f397fd"
+  },
+  {
+    "Direction": "Open",
+    "Position": 72,
+    "AverageTorque": 4,
+    "LastTorque": 8,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f397fe"
+  },
+  {
+    "Direction": "Close",
+    "Position": 74,
+    "AverageTorque": 1,
+    "LastTorque": 1,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f397ff"
+  },
+  {
+    "Direction": "Open",
+    "Position": 73,
+    "AverageTorque": 4,
+    "LastTorque": 8,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f39800"
+  },
+  {
+    "Direction": "Close",
+    "Position": 75,
+    "AverageTorque": 1,
+    "LastTorque": 1,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f39801"
+  },
+  {
+    "Direction": "Open",
+    "Position": 74,
+    "AverageTorque": 4,
+    "LastTorque": 8,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f39802"
+  },
+  {
+    "Direction": "Close",
+    "Position": 76,
+    "AverageTorque": 1,
+    "LastTorque": 1,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f39803"
+  },
+  {
+    "Direction": "Open",
+    "Position": 75,
+    "AverageTorque": 4,
+    "LastTorque": 9,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f39804"
+  },
+  {
+    "Direction": "Close",
+    "Position": 77,
+    "AverageTorque": 1,
+    "LastTorque": 1,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f39805"
+  },
+  {
+    "Direction": "Open",
+    "Position": 76,
+    "AverageTorque": 5,
+    "LastTorque": 10,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f39806"
+  },
+  {
+    "Direction": "Close",
+    "Position": 78,
+    "AverageTorque": 1,
+    "LastTorque": 2,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f39807"
+  },
+  {
+    "Direction": "Open",
+    "Position": 77,
+    "AverageTorque": 6,
+    "LastTorque": 10,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f39808"
+  },
+  {
+    "Direction": "Close",
+    "Position": 79,
+    "AverageTorque": 1,
+    "LastTorque": 2,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f39809"
+  },
+  {
+    "Direction": "Open",
+    "Position": 78,
+    "AverageTorque": 6,
+    "LastTorque": 10,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f3980a"
+  },
+  {
+    "Direction": "Close",
+    "Position": 80,
+    "AverageTorque": 1,
+    "LastTorque": 2,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f3980b"
+  },
+  {
+    "Direction": "Open",
+    "Position": 79,
+    "AverageTorque": 6,
+    "LastTorque": 10,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f3980c"
+  },
+  {
+    "Direction": "Close",
+    "Position": 81,
+    "AverageTorque": 1,
+    "LastTorque": 2,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f3980d"
+  },
+  {
+    "Direction": "Open",
+    "Position": 80,
+    "AverageTorque": 5,
+    "LastTorque": 9,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f3980e"
+  },
+  {
+    "Direction": "Close",
+    "Position": 82,
+    "AverageTorque": 1,
+    "LastTorque": 2,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f3980f"
+  },
+  {
+    "Direction": "Open",
+    "Position": 81,
+    "AverageTorque": 4,
+    "LastTorque": 9,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f39810"
+  },
+  {
+    "Direction": "Close",
+    "Position": 83,
+    "AverageTorque": 1,
+    "LastTorque": 2,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f39811"
+  },
+  {
+    "Direction": "Open",
+    "Position": 82,
+    "AverageTorque": 4,
+    "LastTorque": 9,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f39812"
+  },
+  {
+    "Direction": "Close",
+    "Position": 84,
+    "AverageTorque": 1,
+    "LastTorque": 2,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f39813"
+  },
+  {
+    "Direction": "Open",
+    "Position": 83,
+    "AverageTorque": 4,
+    "LastTorque": 9,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f39814"
+  },
+  {
+    "Direction": "Close",
+    "Position": 85,
+    "AverageTorque": 1,
+    "LastTorque": 2,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f39815"
+  },
+  {
+    "Direction": "Open",
+    "Position": 84,
+    "AverageTorque": 4,
+    "LastTorque": 9,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f39816"
+  },
+  {
+    "Direction": "Close",
+    "Position": 86,
+    "AverageTorque": 1,
+    "LastTorque": 2,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f39817"
+  },
+  {
+    "Direction": "Open",
+    "Position": 85,
+    "AverageTorque": 4,
+    "LastTorque": 9,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f39818"
+  },
+  {
+    "Direction": "Close",
+    "Position": 87,
+    "AverageTorque": 2,
+    "LastTorque": 2,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f39819"
+  },
+  {
+    "Direction": "Open",
+    "Position": 86,
+    "AverageTorque": 4,
+    "LastTorque": 9,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f3981a"
+  },
+  {
+    "Direction": "Close",
+    "Position": 88,
+    "AverageTorque": 2,
+    "LastTorque": 2,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f3981b"
+  },
+  {
+    "Direction": "Open",
+    "Position": 87,
+    "AverageTorque": 4,
+    "LastTorque": 9,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f3981c"
+  },
+  {
+    "Direction": "Close",
+    "Position": 89,
+    "AverageTorque": 2,
+    "LastTorque": 2,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f3981d"
+  },
+  {
+    "Direction": "Open",
+    "Position": 88,
+    "AverageTorque": 3,
+    "LastTorque": 8,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f3981e"
+  },
+  {
+    "Direction": "Close",
+    "Position": 90,
+    "AverageTorque": 2,
+    "LastTorque": 2,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f3981f"
+  },
+  {
+    "Direction": "Open",
+    "Position": 89,
+    "AverageTorque": 2,
+    "LastTorque": 7,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f39820"
+  },
+  {
+    "Direction": "Close",
+    "Position": 91,
+    "AverageTorque": 1,
+    "LastTorque": 2,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f39821"
+  },
+  {
+    "Direction": "Open",
+    "Position": 90,
+    "AverageTorque": 2,
+    "LastTorque": 6,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f39822"
+  },
+  {
+    "Direction": "Close",
+    "Position": 92,
+    "AverageTorque": 1,
+    "LastTorque": 2,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f39823"
+  },
+  {
+    "Direction": "Open",
+    "Position": 91,
+    "AverageTorque": 1,
+    "LastTorque": 5,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f39824"
+  },
+  {
+    "Direction": "Close",
+    "Position": 93,
+    "AverageTorque": 1,
+    "LastTorque": 1,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f39825"
+  },
+  {
+    "Direction": "Open",
+    "Position": 92,
+    "AverageTorque": 1,
+    "LastTorque": 5,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f39826"
+  },
+  {
+    "Direction": "Close",
+    "Position": 94,
+    "AverageTorque": 1,
+    "LastTorque": 1,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f39827"
+  },
+  {
+    "Direction": "Open",
+    "Position": 93,
+    "AverageTorque": 1,
+    "LastTorque": 4,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f39828"
+  },
+  {
+    "Direction": "Close",
+    "Position": 95,
+    "AverageTorque": 1,
+    "LastTorque": 2,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f39829"
+  },
+  {
+    "Direction": "Open",
+    "Position": 94,
+    "AverageTorque": 2,
+    "LastTorque": 5,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f3982a"
+  },
+  {
+    "Direction": "Close",
+    "Position": 96,
+    "AverageTorque": 2,
+    "LastTorque": 3,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f3982b"
+  },
+  {
+    "Direction": "Open",
+    "Position": 95,
+    "AverageTorque": 1,
+    "LastTorque": 4,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f3982c"
+  },
+  {
+    "Direction": "Close",
+    "Position": 97,
+    "AverageTorque": 0,
+    "LastTorque": 1,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f3982d"
+  },
+  {
+    "Direction": "Open",
+    "Position": 96,
+    "AverageTorque": 2,
+    "LastTorque": 4,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f3982e"
+  },
+  {
+    "Direction": "Close",
+    "Position": 98,
+    "AverageTorque": 0,
+    "LastTorque": 1,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f3982f"
+  },
+  {
+    "Direction": "Open",
+    "Position": 97,
+    "AverageTorque": 1,
+    "LastTorque": 4,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f39830"
+  },
+  {
+    "Direction": "Close",
+    "Position": 99,
+    "AverageTorque": 0,
+    "LastTorque": 1,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f39831"
+  },
+  {
+    "Direction": "Open",
+    "Position": 98,
+    "AverageTorque": 1,
+    "LastTorque": 3,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f39832"
+  },
+  {
+    "Direction": "Close",
+    "Position": 100,
+    "AverageTorque": 0,
+    "LastTorque": 1,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f39833"
+  },
+  {
+    "Direction": "Open",
+    "Position": 99,
+    "AverageTorque": 1,
+    "LastTorque": 2,
+    "AssetId": "5773e0e8c8af3c984513b928",
+    "Profile": 56,
+    "id": "577a7426a251736809f39834"
+  },
+  {
+    "Direction": "Close",
+    "Position": 1,
+    "AverageTorque": 43,
+    "LastTorque": 49,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39835"
+  },
+  {
+    "Direction": "Open",
+    "Position": 0,
+    "AverageTorque": 30,
+    "LastTorque": 27,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39836"
+  },
+  {
+    "Direction": "Close",
+    "Position": 2,
+    "AverageTorque": 29,
+    "LastTorque": 25,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39837"
+  },
+  {
+    "Direction": "Open",
+    "Position": 1,
+    "AverageTorque": 23,
+    "LastTorque": 24,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39838"
+  },
+  {
+    "Direction": "Close",
+    "Position": 3,
+    "AverageTorque": 22,
+    "LastTorque": 19,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39839"
+  },
+  {
+    "Direction": "Open",
+    "Position": 2,
+    "AverageTorque": 5,
+    "LastTorque": 9,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f3983a"
+  },
+  {
+    "Direction": "Close",
+    "Position": 4,
+    "AverageTorque": 16,
+    "LastTorque": 11,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f3983b"
+  },
+  {
+    "Direction": "Open",
+    "Position": 3,
+    "AverageTorque": 4,
+    "LastTorque": 6,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f3983c"
+  },
+  {
+    "Direction": "Close",
+    "Position": 5,
+    "AverageTorque": 12,
+    "LastTorque": 7,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f3983d"
+  },
+  {
+    "Direction": "Open",
+    "Position": 4,
+    "AverageTorque": 4,
+    "LastTorque": 4,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f3983e"
+  },
+  {
+    "Direction": "Close",
+    "Position": 6,
+    "AverageTorque": 12,
+    "LastTorque": 7,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f3983f"
+  },
+  {
+    "Direction": "Open",
+    "Position": 5,
+    "AverageTorque": 4,
+    "LastTorque": 6,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39840"
+  },
+  {
+    "Direction": "Close",
+    "Position": 7,
+    "AverageTorque": 10,
+    "LastTorque": 7,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39841"
+  },
+  {
+    "Direction": "Open",
+    "Position": 6,
+    "AverageTorque": 8,
+    "LastTorque": 9,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39842"
+  },
+  {
+    "Direction": "Close",
+    "Position": 8,
+    "AverageTorque": 10,
+    "LastTorque": 7,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39843"
+  },
+  {
+    "Direction": "Open",
+    "Position": 7,
+    "AverageTorque": 8,
+    "LastTorque": 10,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39844"
+  },
+  {
+    "Direction": "Close",
+    "Position": 9,
+    "AverageTorque": 9,
+    "LastTorque": 7,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39845"
+  },
+  {
+    "Direction": "Open",
+    "Position": 8,
+    "AverageTorque": 7,
+    "LastTorque": 10,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39846"
+  },
+  {
+    "Direction": "Close",
+    "Position": 10,
+    "AverageTorque": 8,
+    "LastTorque": 8,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39847"
+  },
+  {
+    "Direction": "Open",
+    "Position": 9,
+    "AverageTorque": 7,
+    "LastTorque": 9,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39848"
+  },
+  {
+    "Direction": "Close",
+    "Position": 11,
+    "AverageTorque": 8,
+    "LastTorque": 8,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39849"
+  },
+  {
+    "Direction": "Open",
+    "Position": 10,
+    "AverageTorque": 7,
+    "LastTorque": 9,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f3984a"
+  },
+  {
+    "Direction": "Close",
+    "Position": 12,
+    "AverageTorque": 7,
+    "LastTorque": 8,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f3984b"
+  },
+  {
+    "Direction": "Open",
+    "Position": 11,
+    "AverageTorque": 7,
+    "LastTorque": 10,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f3984c"
+  },
+  {
+    "Direction": "Close",
+    "Position": 13,
+    "AverageTorque": 6,
+    "LastTorque": 8,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f3984d"
+  },
+  {
+    "Direction": "Open",
+    "Position": 12,
+    "AverageTorque": 6,
+    "LastTorque": 9,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f3984e"
+  },
+  {
+    "Direction": "Close",
+    "Position": 14,
+    "AverageTorque": 6,
+    "LastTorque": 9,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f3984f"
+  },
+  {
+    "Direction": "Open",
+    "Position": 13,
+    "AverageTorque": 6,
+    "LastTorque": 8,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39850"
+  },
+  {
+    "Direction": "Close",
+    "Position": 15,
+    "AverageTorque": 6,
+    "LastTorque": 9,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39851"
+  },
+  {
+    "Direction": "Open",
+    "Position": 14,
+    "AverageTorque": 6,
+    "LastTorque": 9,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39852"
+  },
+  {
+    "Direction": "Close",
+    "Position": 16,
+    "AverageTorque": 5,
+    "LastTorque": 8,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39853"
+  },
+  {
+    "Direction": "Open",
+    "Position": 15,
+    "AverageTorque": 6,
+    "LastTorque": 9,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39854"
+  },
+  {
+    "Direction": "Close",
+    "Position": 17,
+    "AverageTorque": 6,
+    "LastTorque": 10,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39855"
+  },
+  {
+    "Direction": "Open",
+    "Position": 16,
+    "AverageTorque": 5,
+    "LastTorque": 9,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39856"
+  },
+  {
+    "Direction": "Close",
+    "Position": 18,
+    "AverageTorque": 6,
+    "LastTorque": 10,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39857"
+  },
+  {
+    "Direction": "Open",
+    "Position": 17,
+    "AverageTorque": 5,
+    "LastTorque": 9,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39858"
+  },
+  {
+    "Direction": "Close",
+    "Position": 19,
+    "AverageTorque": 5,
+    "LastTorque": 9,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39859"
+  },
+  {
+    "Direction": "Open",
+    "Position": 18,
+    "AverageTorque": 5,
+    "LastTorque": 9,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f3985a"
+  },
+  {
+    "Direction": "Close",
+    "Position": 20,
+    "AverageTorque": 5,
+    "LastTorque": 10,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f3985b"
+  },
+  {
+    "Direction": "Open",
+    "Position": 19,
+    "AverageTorque": 5,
+    "LastTorque": 9,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f3985c"
+  },
+  {
+    "Direction": "Close",
+    "Position": 21,
+    "AverageTorque": 5,
+    "LastTorque": 10,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f3985d"
+  },
+  {
+    "Direction": "Open",
+    "Position": 20,
+    "AverageTorque": 6,
+    "LastTorque": 10,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f3985e"
+  },
+  {
+    "Direction": "Close",
+    "Position": 22,
+    "AverageTorque": 6,
+    "LastTorque": 14,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f3985f"
+  },
+  {
+    "Direction": "Open",
+    "Position": 21,
+    "AverageTorque": 6,
+    "LastTorque": 9,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39860"
+  },
+  {
+    "Direction": "Close",
+    "Position": 23,
+    "AverageTorque": 7,
+    "LastTorque": 15,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39861"
+  },
+  {
+    "Direction": "Open",
+    "Position": 22,
+    "AverageTorque": 5,
+    "LastTorque": 8,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39862"
+  },
+  {
+    "Direction": "Close",
+    "Position": 24,
+    "AverageTorque": 6,
+    "LastTorque": 13,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39863"
+  },
+  {
+    "Direction": "Open",
+    "Position": 23,
+    "AverageTorque": 5,
+    "LastTorque": 9,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39864"
+  },
+  {
+    "Direction": "Close",
+    "Position": 25,
+    "AverageTorque": 4,
+    "LastTorque": 7,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39865"
+  },
+  {
+    "Direction": "Open",
+    "Position": 24,
+    "AverageTorque": 6,
+    "LastTorque": 10,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39866"
+  },
+  {
+    "Direction": "Close",
+    "Position": 26,
+    "AverageTorque": 4,
+    "LastTorque": 6,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39867"
+  },
+  {
+    "Direction": "Open",
+    "Position": 25,
+    "AverageTorque": 5,
+    "LastTorque": 9,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39868"
+  },
+  {
+    "Direction": "Close",
+    "Position": 27,
+    "AverageTorque": 4,
+    "LastTorque": 7,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39869"
+  },
+  {
+    "Direction": "Open",
+    "Position": 26,
+    "AverageTorque": 6,
+    "LastTorque": 10,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f3986a"
+  },
+  {
+    "Direction": "Close",
+    "Position": 28,
+    "AverageTorque": 4,
+    "LastTorque": 7,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f3986b"
+  },
+  {
+    "Direction": "Open",
+    "Position": 27,
+    "AverageTorque": 6,
+    "LastTorque": 11,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f3986c"
+  },
+  {
+    "Direction": "Close",
+    "Position": 29,
+    "AverageTorque": 5,
+    "LastTorque": 7,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f3986d"
+  },
+  {
+    "Direction": "Open",
+    "Position": 28,
+    "AverageTorque": 5,
+    "LastTorque": 5,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f3986e"
+  },
+  {
+    "Direction": "Close",
+    "Position": 30,
+    "AverageTorque": 4,
+    "LastTorque": 3,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f3986f"
+  },
+  {
+    "Direction": "Open",
+    "Position": 29,
+    "AverageTorque": 5,
+    "LastTorque": 6,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39870"
+  },
+  {
+    "Direction": "Close",
+    "Position": 31,
+    "AverageTorque": 3,
+    "LastTorque": 3,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39871"
+  },
+  {
+    "Direction": "Open",
+    "Position": 30,
+    "AverageTorque": 5,
+    "LastTorque": 6,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39872"
+  },
+  {
+    "Direction": "Close",
+    "Position": 32,
+    "AverageTorque": 3,
+    "LastTorque": 3,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39873"
+  },
+  {
+    "Direction": "Open",
+    "Position": 31,
+    "AverageTorque": 5,
+    "LastTorque": 5,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39874"
+  },
+  {
+    "Direction": "Close",
+    "Position": 33,
+    "AverageTorque": 3,
+    "LastTorque": 3,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39875"
+  },
+  {
+    "Direction": "Open",
+    "Position": 32,
+    "AverageTorque": 5,
+    "LastTorque": 6,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39876"
+  },
+  {
+    "Direction": "Close",
+    "Position": 34,
+    "AverageTorque": 3,
+    "LastTorque": 3,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39877"
+  },
+  {
+    "Direction": "Open",
+    "Position": 33,
+    "AverageTorque": 5,
+    "LastTorque": 6,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39878"
+  },
+  {
+    "Direction": "Close",
+    "Position": 35,
+    "AverageTorque": 3,
+    "LastTorque": 3,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39879"
+  },
+  {
+    "Direction": "Open",
+    "Position": 34,
+    "AverageTorque": 5,
+    "LastTorque": 6,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f3987a"
+  },
+  {
+    "Direction": "Close",
+    "Position": 36,
+    "AverageTorque": 3,
+    "LastTorque": 4,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f3987b"
+  },
+  {
+    "Direction": "Open",
+    "Position": 35,
+    "AverageTorque": 5,
+    "LastTorque": 6,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f3987c"
+  },
+  {
+    "Direction": "Close",
+    "Position": 37,
+    "AverageTorque": 3,
+    "LastTorque": 4,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f3987d"
+  },
+  {
+    "Direction": "Open",
+    "Position": 36,
+    "AverageTorque": 6,
+    "LastTorque": 7,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f3987e"
+  },
+  {
+    "Direction": "Close",
+    "Position": 38,
+    "AverageTorque": 3,
+    "LastTorque": 3,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f3987f"
+  },
+  {
+    "Direction": "Open",
+    "Position": 37,
+    "AverageTorque": 6,
+    "LastTorque": 6,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39880"
+  },
+  {
+    "Direction": "Close",
+    "Position": 39,
+    "AverageTorque": 4,
+    "LastTorque": 3,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39881"
+  },
+  {
+    "Direction": "Open",
+    "Position": 38,
+    "AverageTorque": 6,
+    "LastTorque": 6,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39882"
+  },
+  {
+    "Direction": "Close",
+    "Position": 40,
+    "AverageTorque": 4,
+    "LastTorque": 3,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39883"
+  },
+  {
+    "Direction": "Open",
+    "Position": 39,
+    "AverageTorque": 6,
+    "LastTorque": 6,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39884"
+  },
+  {
+    "Direction": "Close",
+    "Position": 41,
+    "AverageTorque": 4,
+    "LastTorque": 3,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39885"
+  },
+  {
+    "Direction": "Open",
+    "Position": 40,
+    "AverageTorque": 5,
+    "LastTorque": 6,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39886"
+  },
+  {
+    "Direction": "Close",
+    "Position": 42,
+    "AverageTorque": 3,
+    "LastTorque": 3,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39887"
+  },
+  {
+    "Direction": "Open",
+    "Position": 41,
+    "AverageTorque": 5,
+    "LastTorque": 6,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39888"
+  },
+  {
+    "Direction": "Close",
+    "Position": 43,
+    "AverageTorque": 4,
+    "LastTorque": 4,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39889"
+  },
+  {
+    "Direction": "Open",
+    "Position": 42,
+    "AverageTorque": 6,
+    "LastTorque": 7,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f3988a"
+  },
+  {
+    "Direction": "Close",
+    "Position": 44,
+    "AverageTorque": 3,
+    "LastTorque": 3,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f3988b"
+  },
+  {
+    "Direction": "Open",
+    "Position": 43,
+    "AverageTorque": 6,
+    "LastTorque": 6,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f3988c"
+  },
+  {
+    "Direction": "Close",
+    "Position": 45,
+    "AverageTorque": 4,
+    "LastTorque": 4,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f3988d"
+  },
+  {
+    "Direction": "Open",
+    "Position": 44,
+    "AverageTorque": 5,
+    "LastTorque": 6,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f3988e"
+  },
+  {
+    "Direction": "Close",
+    "Position": 46,
+    "AverageTorque": 4,
+    "LastTorque": 4,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f3988f"
+  },
+  {
+    "Direction": "Open",
+    "Position": 45,
+    "AverageTorque": 6,
+    "LastTorque": 7,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39890"
+  },
+  {
+    "Direction": "Close",
+    "Position": 47,
+    "AverageTorque": 3,
+    "LastTorque": 4,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39891"
+  },
+  {
+    "Direction": "Open",
+    "Position": 46,
+    "AverageTorque": 5,
+    "LastTorque": 6,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39892"
+  },
+  {
+    "Direction": "Close",
+    "Position": 48,
+    "AverageTorque": 4,
+    "LastTorque": 4,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39893"
+  },
+  {
+    "Direction": "Open",
+    "Position": 47,
+    "AverageTorque": 5,
+    "LastTorque": 6,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39894"
+  },
+  {
+    "Direction": "Close",
+    "Position": 49,
+    "AverageTorque": 4,
+    "LastTorque": 4,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39895"
+  },
+  {
+    "Direction": "Open",
+    "Position": 48,
+    "AverageTorque": 5,
+    "LastTorque": 5,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39896"
+  },
+  {
+    "Direction": "Close",
+    "Position": 50,
+    "AverageTorque": 3,
+    "LastTorque": 2,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39897"
+  },
+  {
+    "Direction": "Open",
+    "Position": 49,
+    "AverageTorque": 4,
+    "LastTorque": 4,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39898"
+  },
+  {
+    "Direction": "Close",
+    "Position": 51,
+    "AverageTorque": 4,
+    "LastTorque": 3,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f39899"
+  },
+  {
+    "Direction": "Open",
+    "Position": 50,
+    "AverageTorque": 4,
+    "LastTorque": 3,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f3989a"
+  },
+  {
+    "Direction": "Close",
+    "Position": 52,
+    "AverageTorque": 4,
+    "LastTorque": 4,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f3989b"
+  },
+  {
+    "Direction": "Open",
+    "Position": 51,
+    "AverageTorque": 4,
+    "LastTorque": 4,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f3989c"
+  },
+  {
+    "Direction": "Close",
+    "Position": 53,
+    "AverageTorque": 3,
+    "LastTorque": 3,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f3989d"
+  },
+  {
+    "Direction": "Open",
+    "Position": 52,
+    "AverageTorque": 5,
+    "LastTorque": 4,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f3989e"
+  },
+  {
+    "Direction": "Close",
+    "Position": 54,
+    "AverageTorque": 4,
+    "LastTorque": 4,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f3989f"
+  },
+  {
+    "Direction": "Open",
+    "Position": 53,
+    "AverageTorque": 4,
+    "LastTorque": 3,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f398a0"
+  },
+  {
+    "Direction": "Close",
+    "Position": 55,
+    "AverageTorque": 4,
+    "LastTorque": 4,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f398a1"
+  },
+  {
+    "Direction": "Open",
+    "Position": 54,
+    "AverageTorque": 5,
+    "LastTorque": 3,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f398a2"
+  },
+  {
+    "Direction": "Close",
+    "Position": 56,
+    "AverageTorque": 4,
+    "LastTorque": 3,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f398a3"
+  },
+  {
+    "Direction": "Open",
+    "Position": 55,
+    "AverageTorque": 4,
+    "LastTorque": 3,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f398a4"
+  },
+  {
+    "Direction": "Close",
+    "Position": 57,
+    "AverageTorque": 5,
+    "LastTorque": 5,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f398a5"
+  },
+  {
+    "Direction": "Open",
+    "Position": 56,
+    "AverageTorque": 4,
+    "LastTorque": 3,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f398a6"
+  },
+  {
+    "Direction": "Close",
+    "Position": 58,
+    "AverageTorque": 5,
+    "LastTorque": 6,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f398a7"
+  },
+  {
+    "Direction": "Open",
+    "Position": 57,
+    "AverageTorque": 4,
+    "LastTorque": 4,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f398a8"
+  },
+  {
+    "Direction": "Close",
+    "Position": 59,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f398a9"
+  },
+  {
+    "Direction": "Open",
+    "Position": 58,
+    "AverageTorque": 4,
+    "LastTorque": 4,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f398aa"
+  },
+  {
+    "Direction": "Close",
+    "Position": 60,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f398ab"
+  },
+  {
+    "Direction": "Open",
+    "Position": 59,
+    "AverageTorque": 4,
+    "LastTorque": 3,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f398ac"
+  },
+  {
+    "Direction": "Close",
+    "Position": 61,
+    "AverageTorque": 4,
+    "LastTorque": 4,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f398ad"
+  },
+  {
+    "Direction": "Open",
+    "Position": 60,
+    "AverageTorque": 4,
+    "LastTorque": 3,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f398ae"
+  },
+  {
+    "Direction": "Close",
+    "Position": 62,
+    "AverageTorque": 5,
+    "LastTorque": 4,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f398af"
+  },
+  {
+    "Direction": "Open",
+    "Position": 61,
+    "AverageTorque": 4,
+    "LastTorque": 4,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f398b0"
+  },
+  {
+    "Direction": "Close",
+    "Position": 63,
+    "AverageTorque": 5,
+    "LastTorque": 4,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f398b1"
+  },
+  {
+    "Direction": "Open",
+    "Position": 62,
+    "AverageTorque": 4,
+    "LastTorque": 3,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f398b2"
+  },
+  {
+    "Direction": "Close",
+    "Position": 64,
+    "AverageTorque": 5,
+    "LastTorque": 5,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f398b3"
+  },
+  {
+    "Direction": "Open",
+    "Position": 63,
+    "AverageTorque": 4,
+    "LastTorque": 4,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f398b4"
+  },
+  {
+    "Direction": "Close",
+    "Position": 65,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f398b5"
+  },
+  {
+    "Direction": "Open",
+    "Position": 64,
+    "AverageTorque": 5,
+    "LastTorque": 4,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f398b6"
+  },
+  {
+    "Direction": "Close",
+    "Position": 66,
+    "AverageTorque": 4,
+    "LastTorque": 4,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f398b7"
+  },
+  {
+    "Direction": "Open",
+    "Position": 65,
+    "AverageTorque": 4,
+    "LastTorque": 3,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f398b8"
+  },
+  {
+    "Direction": "Close",
+    "Position": 67,
+    "AverageTorque": 5,
+    "LastTorque": 5,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f398b9"
+  },
+  {
+    "Direction": "Open",
+    "Position": 66,
+    "AverageTorque": 4,
+    "LastTorque": 4,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f398ba"
+  },
+  {
+    "Direction": "Close",
+    "Position": 68,
+    "AverageTorque": 5,
+    "LastTorque": 5,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f398bb"
+  },
+  {
+    "Direction": "Open",
+    "Position": 67,
+    "AverageTorque": 4,
+    "LastTorque": 4,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f398bc"
+  },
+  {
+    "Direction": "Close",
+    "Position": 69,
+    "AverageTorque": 5,
+    "LastTorque": 7,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f398bd"
+  },
+  {
+    "Direction": "Open",
+    "Position": 68,
+    "AverageTorque": 4,
+    "LastTorque": 3,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f398be"
+  },
+  {
+    "Direction": "Close",
+    "Position": 70,
+    "AverageTorque": 5,
+    "LastTorque": 7,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f398bf"
+  },
+  {
+    "Direction": "Open",
+    "Position": 69,
+    "AverageTorque": 4,
+    "LastTorque": 3,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f398c0"
+  },
+  {
+    "Direction": "Close",
+    "Position": 71,
+    "AverageTorque": 5,
+    "LastTorque": 6,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f398c1"
+  },
+  {
+    "Direction": "Open",
+    "Position": 70,
+    "AverageTorque": 4,
+    "LastTorque": 4,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f398c2"
+  },
+  {
+    "Direction": "Close",
+    "Position": 72,
+    "AverageTorque": 4,
+    "LastTorque": 3,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f398c3"
+  },
+  {
+    "Direction": "Open",
+    "Position": 71,
+    "AverageTorque": 4,
+    "LastTorque": 3,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f398c4"
+  },
+  {
+    "Direction": "Close",
+    "Position": 73,
+    "AverageTorque": 5,
+    "LastTorque": 4,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f398c5"
+  },
+  {
+    "Direction": "Open",
+    "Position": 72,
+    "AverageTorque": 4,
+    "LastTorque": 3,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f398c6"
+  },
+  {
+    "Direction": "Close",
+    "Position": 74,
+    "AverageTorque": 5,
+    "LastTorque": 4,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f398c7"
+  },
+  {
+    "Direction": "Open",
+    "Position": 73,
+    "AverageTorque": 3,
+    "LastTorque": 3,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f398c8"
+  },
+  {
+    "Direction": "Close",
+    "Position": 75,
+    "AverageTorque": 4,
+    "LastTorque": 4,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f398c9"
+  },
+  {
+    "Direction": "Open",
+    "Position": 74,
+    "AverageTorque": 4,
+    "LastTorque": 3,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f398ca"
+  },
+  {
+    "Direction": "Close",
+    "Position": 76,
+    "AverageTorque": 5,
+    "LastTorque": 6,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f398cb"
+  },
+  {
+    "Direction": "Open",
+    "Position": 75,
+    "AverageTorque": 3,
+    "LastTorque": 3,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f398cc"
+  },
+  {
+    "Direction": "Close",
+    "Position": 77,
+    "AverageTorque": 5,
+    "LastTorque": 6,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f398cd"
+  },
+  {
+    "Direction": "Open",
+    "Position": 76,
+    "AverageTorque": 4,
+    "LastTorque": 3,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f398ce"
+  },
+  {
+    "Direction": "Close",
+    "Position": 78,
+    "AverageTorque": 4,
+    "LastTorque": 4,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f398cf"
+  },
+  {
+    "Direction": "Open",
+    "Position": 77,
+    "AverageTorque": 4,
+    "LastTorque": 3,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f398d0"
+  },
+  {
+    "Direction": "Close",
+    "Position": 79,
+    "AverageTorque": 5,
+    "LastTorque": 6,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f398d1"
+  },
+  {
+    "Direction": "Open",
+    "Position": 78,
+    "AverageTorque": 4,
+    "LastTorque": 3,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f398d2"
+  },
+  {
+    "Direction": "Close",
+    "Position": 80,
+    "AverageTorque": 5,
+    "LastTorque": 7,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f398d3"
+  },
+  {
+    "Direction": "Open",
+    "Position": 79,
+    "AverageTorque": 4,
+    "LastTorque": 3,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f398d4"
+  },
+  {
+    "Direction": "Close",
+    "Position": 81,
+    "AverageTorque": 4,
+    "LastTorque": 6,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7426a251736809f398d5"
+  },
+  {
+    "Direction": "Open",
+    "Position": 80,
+    "AverageTorque": 4,
+    "LastTorque": 3,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7427a251736809f398d6"
+  },
+  {
+    "Direction": "Close",
+    "Position": 82,
+    "AverageTorque": 5,
+    "LastTorque": 6,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7427a251736809f398d7"
+  },
+  {
+    "Direction": "Open",
+    "Position": 81,
+    "AverageTorque": 4,
+    "LastTorque": 3,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7427a251736809f398d8"
+  },
+  {
+    "Direction": "Close",
+    "Position": 83,
+    "AverageTorque": 5,
+    "LastTorque": 6,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7427a251736809f398d9"
+  },
+  {
+    "Direction": "Open",
+    "Position": 82,
+    "AverageTorque": 4,
+    "LastTorque": 4,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7427a251736809f398da"
+  },
+  {
+    "Direction": "Close",
+    "Position": 84,
+    "AverageTorque": 5,
+    "LastTorque": 5,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7427a251736809f398db"
+  },
+  {
+    "Direction": "Open",
+    "Position": 83,
+    "AverageTorque": 4,
+    "LastTorque": 3,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7427a251736809f398dc"
+  },
+  {
+    "Direction": "Close",
+    "Position": 85,
+    "AverageTorque": 6,
+    "LastTorque": 7,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7427a251736809f398dd"
+  },
+  {
+    "Direction": "Open",
+    "Position": 84,
+    "AverageTorque": 3,
+    "LastTorque": 3,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7427a251736809f398de"
+  },
+  {
+    "Direction": "Close",
+    "Position": 86,
+    "AverageTorque": 6,
+    "LastTorque": 8,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7427a251736809f398df"
+  },
+  {
+    "Direction": "Open",
+    "Position": 85,
+    "AverageTorque": 4,
+    "LastTorque": 4,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7427a251736809f398e0"
+  },
+  {
+    "Direction": "Close",
+    "Position": 87,
+    "AverageTorque": 5,
+    "LastTorque": 7,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7427a251736809f398e1"
+  },
+  {
+    "Direction": "Open",
+    "Position": 86,
+    "AverageTorque": 4,
+    "LastTorque": 4,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7427a251736809f398e2"
+  },
+  {
+    "Direction": "Close",
+    "Position": 88,
+    "AverageTorque": 6,
+    "LastTorque": 7,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7427a251736809f398e3"
+  },
+  {
+    "Direction": "Open",
+    "Position": 87,
+    "AverageTorque": 4,
+    "LastTorque": 3,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7427a251736809f398e4"
+  },
+  {
+    "Direction": "Close",
+    "Position": 89,
+    "AverageTorque": 6,
+    "LastTorque": 7,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7427a251736809f398e5"
+  },
+  {
+    "Direction": "Open",
+    "Position": 88,
+    "AverageTorque": 5,
+    "LastTorque": 4,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7427a251736809f398e6"
+  },
+  {
+    "Direction": "Close",
+    "Position": 90,
+    "AverageTorque": 6,
+    "LastTorque": 8,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7427a251736809f398e7"
+  },
+  {
+    "Direction": "Open",
+    "Position": 89,
+    "AverageTorque": 4,
+    "LastTorque": 4,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7427a251736809f398e8"
+  },
+  {
+    "Direction": "Close",
+    "Position": 91,
+    "AverageTorque": 7,
+    "LastTorque": 12,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7427a251736809f398e9"
+  },
+  {
+    "Direction": "Open",
+    "Position": 90,
+    "AverageTorque": 4,
+    "LastTorque": 3,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7427a251736809f398ea"
+  },
+  {
+    "Direction": "Close",
+    "Position": 92,
+    "AverageTorque": 7,
+    "LastTorque": 13,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7427a251736809f398eb"
+  },
+  {
+    "Direction": "Open",
+    "Position": 91,
+    "AverageTorque": 5,
+    "LastTorque": 4,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7427a251736809f398ec"
+  },
+  {
+    "Direction": "Close",
+    "Position": 93,
+    "AverageTorque": 7,
+    "LastTorque": 13,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7427a251736809f398ed"
+  },
+  {
+    "Direction": "Open",
+    "Position": 92,
+    "AverageTorque": 5,
+    "LastTorque": 4,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7427a251736809f398ee"
+  },
+  {
+    "Direction": "Close",
+    "Position": 94,
+    "AverageTorque": 8,
+    "LastTorque": 10,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7427a251736809f398ef"
+  },
+  {
+    "Direction": "Open",
+    "Position": 93,
+    "AverageTorque": 4,
+    "LastTorque": 4,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7427a251736809f398f0"
+  },
+  {
+    "Direction": "Close",
+    "Position": 95,
+    "AverageTorque": 7,
+    "LastTorque": 7,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7427a251736809f398f1"
+  },
+  {
+    "Direction": "Open",
+    "Position": 94,
+    "AverageTorque": 5,
+    "LastTorque": 4,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7427a251736809f398f2"
+  },
+  {
+    "Direction": "Close",
+    "Position": 96,
+    "AverageTorque": 5,
+    "LastTorque": 4,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7427a251736809f398f3"
+  },
+  {
+    "Direction": "Open",
+    "Position": 95,
+    "AverageTorque": 5,
+    "LastTorque": 4,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7427a251736809f398f4"
+  },
+  {
+    "Direction": "Close",
+    "Position": 97,
+    "AverageTorque": 3,
+    "LastTorque": 3,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7427a251736809f398f5"
+  },
+  {
+    "Direction": "Open",
+    "Position": 96,
+    "AverageTorque": 4,
+    "LastTorque": 4,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7427a251736809f398f6"
+  },
+  {
+    "Direction": "Close",
+    "Position": 98,
+    "AverageTorque": 4,
+    "LastTorque": 3,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7427a251736809f398f7"
+  },
+  {
+    "Direction": "Open",
+    "Position": 97,
+    "AverageTorque": 5,
+    "LastTorque": 4,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7427a251736809f398f8"
+  },
+  {
+    "Direction": "Close",
+    "Position": 99,
+    "AverageTorque": 6,
+    "LastTorque": 3,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7427a251736809f398f9"
+  },
+  {
+    "Direction": "Open",
+    "Position": 98,
+    "AverageTorque": 10,
+    "LastTorque": 8,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7427a251736809f398fa"
+  },
+  {
+    "Direction": "Close",
+    "Position": 100,
+    "AverageTorque": 15,
+    "LastTorque": 15,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7427a251736809f398fb"
+  },
+  {
+    "Direction": "Open",
+    "Position": 99,
+    "AverageTorque": 20,
+    "LastTorque": 16,
+    "AssetId": "5773e16ec8af3c984513bd29",
+    "Profile": 57,
+    "id": "577a7427a251736809f398fc"
+  },
+  {
+    "Direction": "Close",
+    "Position": 1,
+    "AverageTorque": 25,
+    "LastTorque": 26,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f398fd"
+  },
+  {
+    "Direction": "Open",
+    "Position": 0,
+    "AverageTorque": 20,
+    "LastTorque": 20,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f398fe"
+  },
+  {
+    "Direction": "Close",
+    "Position": 2,
+    "AverageTorque": 19,
+    "LastTorque": 20,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f398ff"
+  },
+  {
+    "Direction": "Open",
+    "Position": 1,
+    "AverageTorque": 8,
+    "LastTorque": 9,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39900"
+  },
+  {
+    "Direction": "Close",
+    "Position": 3,
+    "AverageTorque": 17,
+    "LastTorque": 18,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39901"
+  },
+  {
+    "Direction": "Open",
+    "Position": 2,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39902"
+  },
+  {
+    "Direction": "Close",
+    "Position": 4,
+    "AverageTorque": 15,
+    "LastTorque": 16,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39903"
+  },
+  {
+    "Direction": "Open",
+    "Position": 3,
+    "AverageTorque": 5,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39904"
+  },
+  {
+    "Direction": "Close",
+    "Position": 5,
+    "AverageTorque": 14,
+    "LastTorque": 15,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39905"
+  },
+  {
+    "Direction": "Open",
+    "Position": 4,
+    "AverageTorque": 7,
+    "LastTorque": 7,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39906"
+  },
+  {
+    "Direction": "Close",
+    "Position": 6,
+    "AverageTorque": 12,
+    "LastTorque": 14,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39907"
+  },
+  {
+    "Direction": "Open",
+    "Position": 5,
+    "AverageTorque": 8,
+    "LastTorque": 8,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39908"
+  },
+  {
+    "Direction": "Close",
+    "Position": 7,
+    "AverageTorque": 11,
+    "LastTorque": 13,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39909"
+  },
+  {
+    "Direction": "Open",
+    "Position": 6,
+    "AverageTorque": 7,
+    "LastTorque": 8,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f3990a"
+  },
+  {
+    "Direction": "Close",
+    "Position": 8,
+    "AverageTorque": 9,
+    "LastTorque": 11,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f3990b"
+  },
+  {
+    "Direction": "Open",
+    "Position": 7,
+    "AverageTorque": 7,
+    "LastTorque": 7,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f3990c"
+  },
+  {
+    "Direction": "Close",
+    "Position": 9,
+    "AverageTorque": 8,
+    "LastTorque": 9,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f3990d"
+  },
+  {
+    "Direction": "Open",
+    "Position": 8,
+    "AverageTorque": 6,
+    "LastTorque": 7,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f3990e"
+  },
+  {
+    "Direction": "Close",
+    "Position": 10,
+    "AverageTorque": 8,
+    "LastTorque": 9,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f3990f"
+  },
+  {
+    "Direction": "Open",
+    "Position": 9,
+    "AverageTorque": 5,
+    "LastTorque": 6,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39910"
+  },
+  {
+    "Direction": "Close",
+    "Position": 11,
+    "AverageTorque": 7,
+    "LastTorque": 8,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39911"
+  },
+  {
+    "Direction": "Open",
+    "Position": 10,
+    "AverageTorque": 5,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39912"
+  },
+  {
+    "Direction": "Close",
+    "Position": 12,
+    "AverageTorque": 7,
+    "LastTorque": 7,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39913"
+  },
+  {
+    "Direction": "Open",
+    "Position": 11,
+    "AverageTorque": 5,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39914"
+  },
+  {
+    "Direction": "Close",
+    "Position": 13,
+    "AverageTorque": 6,
+    "LastTorque": 7,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39915"
+  },
+  {
+    "Direction": "Open",
+    "Position": 12,
+    "AverageTorque": 5,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39916"
+  },
+  {
+    "Direction": "Close",
+    "Position": 14,
+    "AverageTorque": 6,
+    "LastTorque": 7,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39917"
+  },
+  {
+    "Direction": "Open",
+    "Position": 13,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39918"
+  },
+  {
+    "Direction": "Close",
+    "Position": 15,
+    "AverageTorque": 6,
+    "LastTorque": 6,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39919"
+  },
+  {
+    "Direction": "Open",
+    "Position": 14,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f3991a"
+  },
+  {
+    "Direction": "Close",
+    "Position": 16,
+    "AverageTorque": 5,
+    "LastTorque": 6,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f3991b"
+  },
+  {
+    "Direction": "Open",
+    "Position": 15,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f3991c"
+  },
+  {
+    "Direction": "Close",
+    "Position": 17,
+    "AverageTorque": 5,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f3991d"
+  },
+  {
+    "Direction": "Open",
+    "Position": 16,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f3991e"
+  },
+  {
+    "Direction": "Close",
+    "Position": 18,
+    "AverageTorque": 5,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f3991f"
+  },
+  {
+    "Direction": "Open",
+    "Position": 17,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39920"
+  },
+  {
+    "Direction": "Close",
+    "Position": 19,
+    "AverageTorque": 5,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39921"
+  },
+  {
+    "Direction": "Open",
+    "Position": 18,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39922"
+  },
+  {
+    "Direction": "Close",
+    "Position": 20,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39923"
+  },
+  {
+    "Direction": "Open",
+    "Position": 19,
+    "AverageTorque": 5,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39924"
+  },
+  {
+    "Direction": "Close",
+    "Position": 21,
+    "AverageTorque": 5,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39925"
+  },
+  {
+    "Direction": "Open",
+    "Position": 20,
+    "AverageTorque": 5,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39926"
+  },
+  {
+    "Direction": "Close",
+    "Position": 22,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39927"
+  },
+  {
+    "Direction": "Open",
+    "Position": 21,
+    "AverageTorque": 5,
+    "LastTorque": 6,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39928"
+  },
+  {
+    "Direction": "Close",
+    "Position": 23,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39929"
+  },
+  {
+    "Direction": "Open",
+    "Position": 22,
+    "AverageTorque": 5,
+    "LastTorque": 6,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f3992a"
+  },
+  {
+    "Direction": "Close",
+    "Position": 24,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f3992b"
+  },
+  {
+    "Direction": "Open",
+    "Position": 23,
+    "AverageTorque": 5,
+    "LastTorque": 6,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f3992c"
+  },
+  {
+    "Direction": "Close",
+    "Position": 25,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f3992d"
+  },
+  {
+    "Direction": "Open",
+    "Position": 24,
+    "AverageTorque": 5,
+    "LastTorque": 7,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f3992e"
+  },
+  {
+    "Direction": "Close",
+    "Position": 26,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f3992f"
+  },
+  {
+    "Direction": "Open",
+    "Position": 25,
+    "AverageTorque": 5,
+    "LastTorque": 7,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39930"
+  },
+  {
+    "Direction": "Close",
+    "Position": 27,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39931"
+  },
+  {
+    "Direction": "Open",
+    "Position": 26,
+    "AverageTorque": 6,
+    "LastTorque": 7,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39932"
+  },
+  {
+    "Direction": "Close",
+    "Position": 28,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39933"
+  },
+  {
+    "Direction": "Open",
+    "Position": 27,
+    "AverageTorque": 6,
+    "LastTorque": 7,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39934"
+  },
+  {
+    "Direction": "Close",
+    "Position": 29,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39935"
+  },
+  {
+    "Direction": "Open",
+    "Position": 28,
+    "AverageTorque": 6,
+    "LastTorque": 7,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39936"
+  },
+  {
+    "Direction": "Close",
+    "Position": 30,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39937"
+  },
+  {
+    "Direction": "Open",
+    "Position": 29,
+    "AverageTorque": 6,
+    "LastTorque": 8,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39938"
+  },
+  {
+    "Direction": "Close",
+    "Position": 31,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39939"
+  },
+  {
+    "Direction": "Open",
+    "Position": 30,
+    "AverageTorque": 6,
+    "LastTorque": 8,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f3993a"
+  },
+  {
+    "Direction": "Close",
+    "Position": 32,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f3993b"
+  },
+  {
+    "Direction": "Open",
+    "Position": 31,
+    "AverageTorque": 6,
+    "LastTorque": 8,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f3993c"
+  },
+  {
+    "Direction": "Close",
+    "Position": 33,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f3993d"
+  },
+  {
+    "Direction": "Open",
+    "Position": 32,
+    "AverageTorque": 6,
+    "LastTorque": 8,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f3993e"
+  },
+  {
+    "Direction": "Close",
+    "Position": 34,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f3993f"
+  },
+  {
+    "Direction": "Open",
+    "Position": 33,
+    "AverageTorque": 6,
+    "LastTorque": 8,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39940"
+  },
+  {
+    "Direction": "Close",
+    "Position": 35,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39941"
+  },
+  {
+    "Direction": "Open",
+    "Position": 34,
+    "AverageTorque": 5,
+    "LastTorque": 7,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39942"
+  },
+  {
+    "Direction": "Close",
+    "Position": 36,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39943"
+  },
+  {
+    "Direction": "Open",
+    "Position": 35,
+    "AverageTorque": 5,
+    "LastTorque": 7,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39944"
+  },
+  {
+    "Direction": "Close",
+    "Position": 37,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39945"
+  },
+  {
+    "Direction": "Open",
+    "Position": 36,
+    "AverageTorque": 5,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39946"
+  },
+  {
+    "Direction": "Close",
+    "Position": 38,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39947"
+  },
+  {
+    "Direction": "Open",
+    "Position": 37,
+    "AverageTorque": 5,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39948"
+  },
+  {
+    "Direction": "Close",
+    "Position": 39,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39949"
+  },
+  {
+    "Direction": "Open",
+    "Position": 38,
+    "AverageTorque": 5,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f3994a"
+  },
+  {
+    "Direction": "Close",
+    "Position": 40,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f3994b"
+  },
+  {
+    "Direction": "Open",
+    "Position": 39,
+    "AverageTorque": 5,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f3994c"
+  },
+  {
+    "Direction": "Close",
+    "Position": 41,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f3994d"
+  },
+  {
+    "Direction": "Open",
+    "Position": 40,
+    "AverageTorque": 5,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f3994e"
+  },
+  {
+    "Direction": "Close",
+    "Position": 42,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f3994f"
+  },
+  {
+    "Direction": "Open",
+    "Position": 41,
+    "AverageTorque": 5,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39950"
+  },
+  {
+    "Direction": "Close",
+    "Position": 43,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39951"
+  },
+  {
+    "Direction": "Open",
+    "Position": 42,
+    "AverageTorque": 5,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39952"
+  },
+  {
+    "Direction": "Close",
+    "Position": 44,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39953"
+  },
+  {
+    "Direction": "Open",
+    "Position": 43,
+    "AverageTorque": 5,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39954"
+  },
+  {
+    "Direction": "Close",
+    "Position": 45,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39955"
+  },
+  {
+    "Direction": "Open",
+    "Position": 44,
+    "AverageTorque": 5,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39956"
+  },
+  {
+    "Direction": "Close",
+    "Position": 46,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39957"
+  },
+  {
+    "Direction": "Open",
+    "Position": 45,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39958"
+  },
+  {
+    "Direction": "Close",
+    "Position": 47,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39959"
+  },
+  {
+    "Direction": "Open",
+    "Position": 46,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f3995a"
+  },
+  {
+    "Direction": "Close",
+    "Position": 48,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f3995b"
+  },
+  {
+    "Direction": "Open",
+    "Position": 47,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f3995c"
+  },
+  {
+    "Direction": "Close",
+    "Position": 49,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f3995d"
+  },
+  {
+    "Direction": "Open",
+    "Position": 48,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f3995e"
+  },
+  {
+    "Direction": "Close",
+    "Position": 50,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f3995f"
+  },
+  {
+    "Direction": "Open",
+    "Position": 49,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39960"
+  },
+  {
+    "Direction": "Close",
+    "Position": 51,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39961"
+  },
+  {
+    "Direction": "Open",
+    "Position": 50,
+    "AverageTorque": 4,
+    "LastTorque": 6,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39962"
+  },
+  {
+    "Direction": "Close",
+    "Position": 52,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39963"
+  },
+  {
+    "Direction": "Open",
+    "Position": 51,
+    "AverageTorque": 4,
+    "LastTorque": 6,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39964"
+  },
+  {
+    "Direction": "Close",
+    "Position": 53,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39965"
+  },
+  {
+    "Direction": "Open",
+    "Position": 52,
+    "AverageTorque": 4,
+    "LastTorque": 6,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39966"
+  },
+  {
+    "Direction": "Close",
+    "Position": 54,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39967"
+  },
+  {
+    "Direction": "Open",
+    "Position": 53,
+    "AverageTorque": 4,
+    "LastTorque": 6,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39968"
+  },
+  {
+    "Direction": "Close",
+    "Position": 55,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39969"
+  },
+  {
+    "Direction": "Open",
+    "Position": 54,
+    "AverageTorque": 4,
+    "LastTorque": 6,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f3996a"
+  },
+  {
+    "Direction": "Close",
+    "Position": 56,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f3996b"
+  },
+  {
+    "Direction": "Open",
+    "Position": 55,
+    "AverageTorque": 4,
+    "LastTorque": 6,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f3996c"
+  },
+  {
+    "Direction": "Close",
+    "Position": 57,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f3996d"
+  },
+  {
+    "Direction": "Open",
+    "Position": 56,
+    "AverageTorque": 4,
+    "LastTorque": 6,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f3996e"
+  },
+  {
+    "Direction": "Close",
+    "Position": 58,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f3996f"
+  },
+  {
+    "Direction": "Open",
+    "Position": 57,
+    "AverageTorque": 4,
+    "LastTorque": 6,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39970"
+  },
+  {
+    "Direction": "Close",
+    "Position": 59,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39971"
+  },
+  {
+    "Direction": "Open",
+    "Position": 58,
+    "AverageTorque": 4,
+    "LastTorque": 6,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39972"
+  },
+  {
+    "Direction": "Close",
+    "Position": 60,
+    "AverageTorque": 5,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39973"
+  },
+  {
+    "Direction": "Open",
+    "Position": 59,
+    "AverageTorque": 4,
+    "LastTorque": 6,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39974"
+  },
+  {
+    "Direction": "Close",
+    "Position": 61,
+    "AverageTorque": 5,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39975"
+  },
+  {
+    "Direction": "Open",
+    "Position": 60,
+    "AverageTorque": 4,
+    "LastTorque": 6,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39976"
+  },
+  {
+    "Direction": "Close",
+    "Position": 62,
+    "AverageTorque": 5,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39977"
+  },
+  {
+    "Direction": "Open",
+    "Position": 61,
+    "AverageTorque": 4,
+    "LastTorque": 6,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39978"
+  },
+  {
+    "Direction": "Close",
+    "Position": 63,
+    "AverageTorque": 5,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39979"
+  },
+  {
+    "Direction": "Open",
+    "Position": 62,
+    "AverageTorque": 4,
+    "LastTorque": 6,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f3997a"
+  },
+  {
+    "Direction": "Close",
+    "Position": 64,
+    "AverageTorque": 5,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f3997b"
+  },
+  {
+    "Direction": "Open",
+    "Position": 63,
+    "AverageTorque": 4,
+    "LastTorque": 6,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f3997c"
+  },
+  {
+    "Direction": "Close",
+    "Position": 65,
+    "AverageTorque": 5,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f3997d"
+  },
+  {
+    "Direction": "Open",
+    "Position": 64,
+    "AverageTorque": 4,
+    "LastTorque": 6,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f3997e"
+  },
+  {
+    "Direction": "Close",
+    "Position": 66,
+    "AverageTorque": 5,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f3997f"
+  },
+  {
+    "Direction": "Open",
+    "Position": 65,
+    "AverageTorque": 4,
+    "LastTorque": 6,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39980"
+  },
+  {
+    "Direction": "Close",
+    "Position": 67,
+    "AverageTorque": 5,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39981"
+  },
+  {
+    "Direction": "Open",
+    "Position": 66,
+    "AverageTorque": 4,
+    "LastTorque": 6,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39982"
+  },
+  {
+    "Direction": "Close",
+    "Position": 68,
+    "AverageTorque": 5,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39983"
+  },
+  {
+    "Direction": "Open",
+    "Position": 67,
+    "AverageTorque": 4,
+    "LastTorque": 6,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39984"
+  },
+  {
+    "Direction": "Close",
+    "Position": 69,
+    "AverageTorque": 5,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39985"
+  },
+  {
+    "Direction": "Open",
+    "Position": 68,
+    "AverageTorque": 4,
+    "LastTorque": 6,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39986"
+  },
+  {
+    "Direction": "Close",
+    "Position": 70,
+    "AverageTorque": 5,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39987"
+  },
+  {
+    "Direction": "Open",
+    "Position": 69,
+    "AverageTorque": 4,
+    "LastTorque": 6,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39988"
+  },
+  {
+    "Direction": "Close",
+    "Position": 71,
+    "AverageTorque": 5,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39989"
+  },
+  {
+    "Direction": "Open",
+    "Position": 70,
+    "AverageTorque": 5,
+    "LastTorque": 7,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f3998a"
+  },
+  {
+    "Direction": "Close",
+    "Position": 72,
+    "AverageTorque": 5,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f3998b"
+  },
+  {
+    "Direction": "Open",
+    "Position": 71,
+    "AverageTorque": 4,
+    "LastTorque": 6,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f3998c"
+  },
+  {
+    "Direction": "Close",
+    "Position": 73,
+    "AverageTorque": 5,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f3998d"
+  },
+  {
+    "Direction": "Open",
+    "Position": 72,
+    "AverageTorque": 4,
+    "LastTorque": 6,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f3998e"
+  },
+  {
+    "Direction": "Close",
+    "Position": 74,
+    "AverageTorque": 5,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f3998f"
+  },
+  {
+    "Direction": "Open",
+    "Position": 73,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39990"
+  },
+  {
+    "Direction": "Close",
+    "Position": 75,
+    "AverageTorque": 5,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39991"
+  },
+  {
+    "Direction": "Open",
+    "Position": 74,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39992"
+  },
+  {
+    "Direction": "Close",
+    "Position": 76,
+    "AverageTorque": 5,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39993"
+  },
+  {
+    "Direction": "Open",
+    "Position": 75,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39994"
+  },
+  {
+    "Direction": "Close",
+    "Position": 77,
+    "AverageTorque": 5,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39995"
+  },
+  {
+    "Direction": "Open",
+    "Position": 76,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39996"
+  },
+  {
+    "Direction": "Close",
+    "Position": 78,
+    "AverageTorque": 5,
+    "LastTorque": 6,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39997"
+  },
+  {
+    "Direction": "Open",
+    "Position": 77,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39998"
+  },
+  {
+    "Direction": "Close",
+    "Position": 79,
+    "AverageTorque": 5,
+    "LastTorque": 6,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f39999"
+  },
+  {
+    "Direction": "Open",
+    "Position": 78,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f3999a"
+  },
+  {
+    "Direction": "Close",
+    "Position": 80,
+    "AverageTorque": 5,
+    "LastTorque": 6,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f3999b"
+  },
+  {
+    "Direction": "Open",
+    "Position": 79,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f3999c"
+  },
+  {
+    "Direction": "Close",
+    "Position": 81,
+    "AverageTorque": 5,
+    "LastTorque": 6,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f3999d"
+  },
+  {
+    "Direction": "Open",
+    "Position": 80,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f3999e"
+  },
+  {
+    "Direction": "Close",
+    "Position": 82,
+    "AverageTorque": 5,
+    "LastTorque": 6,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f3999f"
+  },
+  {
+    "Direction": "Open",
+    "Position": 81,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f399a0"
+  },
+  {
+    "Direction": "Close",
+    "Position": 83,
+    "AverageTorque": 5,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f399a1"
+  },
+  {
+    "Direction": "Open",
+    "Position": 82,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f399a2"
+  },
+  {
+    "Direction": "Close",
+    "Position": 84,
+    "AverageTorque": 5,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f399a3"
+  },
+  {
+    "Direction": "Open",
+    "Position": 83,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f399a4"
+  },
+  {
+    "Direction": "Close",
+    "Position": 85,
+    "AverageTorque": 5,
+    "LastTorque": 6,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f399a5"
+  },
+  {
+    "Direction": "Open",
+    "Position": 84,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f399a6"
+  },
+  {
+    "Direction": "Close",
+    "Position": 86,
+    "AverageTorque": 5,
+    "LastTorque": 6,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f399a7"
+  },
+  {
+    "Direction": "Open",
+    "Position": 85,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f399a8"
+  },
+  {
+    "Direction": "Close",
+    "Position": 87,
+    "AverageTorque": 6,
+    "LastTorque": 6,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f399a9"
+  },
+  {
+    "Direction": "Open",
+    "Position": 86,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f399aa"
+  },
+  {
+    "Direction": "Close",
+    "Position": 88,
+    "AverageTorque": 6,
+    "LastTorque": 6,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f399ab"
+  },
+  {
+    "Direction": "Open",
+    "Position": 87,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f399ac"
+  },
+  {
+    "Direction": "Close",
+    "Position": 89,
+    "AverageTorque": 6,
+    "LastTorque": 6,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f399ad"
+  },
+  {
+    "Direction": "Open",
+    "Position": 88,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f399ae"
+  },
+  {
+    "Direction": "Close",
+    "Position": 90,
+    "AverageTorque": 5,
+    "LastTorque": 6,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f399af"
+  },
+  {
+    "Direction": "Open",
+    "Position": 89,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f399b0"
+  },
+  {
+    "Direction": "Close",
+    "Position": 91,
+    "AverageTorque": 5,
+    "LastTorque": 6,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f399b1"
+  },
+  {
+    "Direction": "Open",
+    "Position": 90,
+    "AverageTorque": 4,
+    "LastTorque": 4,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f399b2"
+  },
+  {
+    "Direction": "Close",
+    "Position": 92,
+    "AverageTorque": 5,
+    "LastTorque": 6,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f399b3"
+  },
+  {
+    "Direction": "Open",
+    "Position": 91,
+    "AverageTorque": 4,
+    "LastTorque": 4,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f399b4"
+  },
+  {
+    "Direction": "Close",
+    "Position": 93,
+    "AverageTorque": 5,
+    "LastTorque": 6,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f399b5"
+  },
+  {
+    "Direction": "Open",
+    "Position": 92,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f399b6"
+  },
+  {
+    "Direction": "Close",
+    "Position": 94,
+    "AverageTorque": 5,
+    "LastTorque": 6,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f399b7"
+  },
+  {
+    "Direction": "Open",
+    "Position": 93,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f399b8"
+  },
+  {
+    "Direction": "Close",
+    "Position": 95,
+    "AverageTorque": 5,
+    "LastTorque": 6,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f399b9"
+  },
+  {
+    "Direction": "Open",
+    "Position": 94,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f399ba"
+  },
+  {
+    "Direction": "Close",
+    "Position": 96,
+    "AverageTorque": 5,
+    "LastTorque": 6,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f399bb"
+  },
+  {
+    "Direction": "Open",
+    "Position": 95,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f399bc"
+  },
+  {
+    "Direction": "Close",
+    "Position": 97,
+    "AverageTorque": 5,
+    "LastTorque": 6,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f399bd"
+  },
+  {
+    "Direction": "Open",
+    "Position": 96,
+    "AverageTorque": 4,
+    "LastTorque": 4,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f399be"
+  },
+  {
+    "Direction": "Close",
+    "Position": 98,
+    "AverageTorque": 5,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f399bf"
+  },
+  {
+    "Direction": "Open",
+    "Position": 97,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f399c0"
+  },
+  {
+    "Direction": "Close",
+    "Position": 99,
+    "AverageTorque": 5,
+    "LastTorque": 6,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f399c1"
+  },
+  {
+    "Direction": "Open",
+    "Position": 98,
+    "AverageTorque": 4,
+    "LastTorque": 5,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f399c2"
+  },
+  {
+    "Direction": "Close",
+    "Position": 100,
+    "AverageTorque": 9,
+    "LastTorque": 9,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f399c3"
+  },
+  {
+    "Direction": "Open",
+    "Position": 99,
+    "AverageTorque": 7,
+    "LastTorque": 7,
+    "AssetId": "5773e1fac8af3c984513c177",
+    "Profile": 58,
+    "id": "577a7427a251736809f399c4"
+  }
+]
